@@ -1,3 +1,7 @@
 import myServer from './services/server';
-const puerto = process.env.PORT || 8080;
-myServer.listen(puerto, () => console.log(`Server up puerto ${puerto}`));
+import Config from './config';
+import { Logger } from './services/logger';
+
+const puerto = Config.PORT;
+
+myServer.listen(puerto, () => Logger.info(`Server up puerto ${puerto}`));
