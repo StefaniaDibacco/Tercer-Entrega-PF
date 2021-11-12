@@ -7,19 +7,15 @@ const router = Router();
 
 router.get(
   '/listar/:id?',
-  [isLoggedIn, CartController.getCartByUser],
+  [isLoggedIn],
   asyncHandler(CartController.getCartByUser)
 );
 
-router.post(
-  '/agregar/:id_carrito',
-  [isLoggedIn, CartController.getCartByUser],
-  asyncHandler(CartController.addProduct)
-);
+router.post('/agregar', [isLoggedIn], asyncHandler(CartController.addProduct));
 
 router.delete(
   '/borrar/:id_carrito',
-  [isLoggedIn, CartController.getCartByUser],
+  [isLoggedIn],
   asyncHandler(CartController.deleteProduct)
 );
 

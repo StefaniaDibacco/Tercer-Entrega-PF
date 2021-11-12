@@ -1,2 +1,7 @@
 {"level":"error","message":"\"firstName\" is required","timestamp":"2021-11-11T14:41:05.111Z"}
 {"level":"error","message":"\"firstName\" is required","timestamp":"2021-11-11T14:44:35.437Z"}
+{"level":"error","message":"HUBO UN ERROR Unexpected token \" in JSON at position 0","timestamp":"2021-11-11T18:12:30.182Z"}
+{"level":"error","message":"HUBO UN ERROR Unexpected token } in JSON at position 236","timestamp":"2021-11-11T18:13:12.430Z"}
+{"level":"error","message":"HUBO UN ERROR Unexpected end of JSON input","timestamp":"2021-11-11T18:13:26.556Z"}
+{"level":"error","message":"HUBO UN ERROR Unexpected token { in JSON at position 50","timestamp":"2021-11-11T18:38:01.478Z"}
+{"level":"error","message":"HUBO UN ERROR Unexpected token [ in JSON at position 51","timestamp":"2021-11-11T18:39:20.601Z"}

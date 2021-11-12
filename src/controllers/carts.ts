@@ -1,6 +1,5 @@
 import { CartAPI } from '../apis/carts';
 import { Request, Response } from 'express';
-// import { UserI } from '../models/users/users.interface';
 import { productsAPI } from '../apis/productos';
 
 class Cart {
@@ -13,7 +12,7 @@ class Cart {
   async addProduct(req: Request, res: Response) {
     const user: any = req.user;
     const cart = await CartAPI.getCart(user._id);
-
+    console.log(user, cart);
     const { productId, productAmount } = req.body;
 
     if (!productId || !productAmount)

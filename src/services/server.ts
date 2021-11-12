@@ -17,7 +17,7 @@ const StoreOptions = {
   resave: false,
   saveUninitialized: false,
   cookie: {
-    maxAge: Config.SESSION_COOKIE_TIMEOUT_MIN * 60 * 1000,
+    // maxAge: Config.SESSION_COOKIE_TIMEOUT_MIN * 60 * 1000,
   },
 };
 
