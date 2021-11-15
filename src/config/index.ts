@@ -3,6 +3,9 @@ dotenv.config();
 
 const venv = {
   PORT: process.env.PORT || 8080,
+  ETHEREAL_EMAIL: process.env.ETHEREAL_EMAIL || 'email@ethereal.email',
+  ETHEREAL_PASSWORD: process.env.ETHEREAL_PASSWORD || 'password',
+  ETHEREAL_NAME: process.env.ETHEREAL_NAME || 'Mattie Langworth',
   MONGO_ATLAS_USER: process.env.MONGO_ATLAS_USER || 'user',
   MONGO_ATLAS_PASSWORD: process.env.MONGO_ATLAS_PASSWORD || 'pasw',
   MONGO_ATLAS_CLUSTER: process.env.MONGO_ATLAS_CLUSTER || 'clusterUrl',

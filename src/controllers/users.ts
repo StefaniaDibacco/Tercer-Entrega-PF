@@ -34,6 +34,7 @@ class User {
   }
 
   async deleteUser(req: Request, res: Response) {
+    await UserAPI.deleteUser(req.params.id);
     res.json({ msg: 'DELETE USER' });
   }
 }

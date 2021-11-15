@@ -17,8 +17,54 @@
 								"method": "POST",
 								"header": [],
 								"body": {
-									"mode": "raw",
-									"raw": "{\r\n  \"firstName\": \"ivan\",\r\n  \"lastName\": \"Sandoval\",\r\n  \"email\": \"sandoval@gmail.com\",\r\n  \"username\": \"ivan\",\r\n  \"password\": \"Coder.159\"\r\n}",
+									"mode": "urlencoded",
+									"urlencoded": [
+										{
+											"key": "firstName",
+											"value": "Ivan",
+											"type": "text"
+										},
+										{
+											"key": "lastName",
+											"value": "leonel",
+											"type": "text"
+										},
+										{
+											"key": "age",
+											"value": "25",
+											"type": "text"
+										},
+										{
+											"key": "username",
+											"value": "meca4",
+											"type": "text"
+										},
+										{
+											"key": "dir",
+											"value": "calle Falsa 123",
+											"type": "text"
+										},
+										{
+											"key": "cellphone",
+											"value": "+5491130881719",
+											"type": "text"
+										},
+										{
+											"key": "email",
+											"value": "mecalux4@gmail.com",
+											"type": "text"
+										},
+										{
+											"key": "password",
+											"value": "Coder.159",
+											"type": "text"
+										},
+										{
+											"key": "photo",
+											"value": "https://www.facebook.com/photo/?fbid=3123634634341030&set=a.145757185462138",
+											"type": "text"
+										}
+									],
 									"options": {
 										"raw": {
 											"language": "json"
@@ -108,7 +154,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\r\n  \"firstName\": \"Stefania\",\r\n  \"lastName\": \"Di Bacco\",\r\n  \"email\": \"stefania.dibacco@gmail.com\",\r\n  \"username\": \"stefy\",\r\n  \"password\": \"Coder.159\"\r\n}",
+									"raw": "{\r\n  \"firstName\": \"Stefania\",\r\n  \"lastName\": \"Di Bacco\",\r\n  \"age\":31,\r\n  \"username\": \"stefy\",\r\n  \"dir\": \"calle Falsa 123\",\r\n  \"cellphone\":\"+5491167275127\",\r\n  \"email\": \"stefania.dibacco@gmail.com\",\r\n  \"password\": \"Coder.159\",\r\n  \"photo\":\"https://www.facebook.com/photo/?fbid=10225627934101461&set=a.1547542284788\"\r\n}",
 									"options": {
 										"raw": {
 											"language": "json"

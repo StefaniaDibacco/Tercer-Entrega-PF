@@ -5,3 +5,30 @@
 {"level":"error","message":"HUBO UN ERROR Unexpected end of JSON input","timestamp":"2021-11-11T18:13:26.556Z"}
 {"level":"error","message":"HUBO UN ERROR Unexpected token { in JSON at position 50","timestamp":"2021-11-11T18:38:01.478Z"}
 {"level":"error","message":"HUBO UN ERROR Unexpected token [ in JSON at position 51","timestamp":"2021-11-11T18:39:20.601Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:30:41.618Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:30:47.973Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:31:01.618Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:31:10.483Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:31:23.894Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:31:33.883Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:33:00.338Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:33:04.026Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:33:08.773Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:33:12.117Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:40:39.636Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:40:43.623Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:40:52.870Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:40:56.567Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:41:03.773Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:41:43.391Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:42:25.825Z"}
+{"level":"error","message":"HUBO UN ERROR passport.initialize() middleware not in use","timestamp":"2021-11-15T00:43:00.978Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:53:21.498Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:53:50.081Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T00:58:18.307Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T01:11:10.057Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T01:13:58.981Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T01:22:37.794Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T01:22:41.687Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T01:23:01.926Z"}
+{"level":"error","message":"HUBO UN ERROR Failed to deserialize user out of session","timestamp":"2021-11-15T01:23:08.537Z"}
